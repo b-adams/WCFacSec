@@ -1,11 +1,11 @@
 Faculty Counting toward Quorum
 ========
 
-## Summer 2013 ##
+## Fa13 ##
 
 | Members	| Quorum	|  
 | :----:	| :----:	|  
-| 34	| 18	|  
+| 29	| 15	|  
 
 1.  Adams, Bryant 
 * Bailey, Christopher 
@@ -17,17 +17,13 @@ Faculty Counting toward Quorum
 * Frazier, Brad 
 * Gagnon, Deborah 
 * Ganis, William	
-* Garrett, Cynthia	
 * Goddard, Jeanne 
 * Groth, Michael 
-* Hall, Lisa	
-* Heinekamp, Scott	
 * Klitgaard, Kent 
 * Koepp, Cynthia 
 * Lohn, Linda 
 * Lossowski, Theodore 
 * Lumumba-Kasongo, Tukumbi	
-* Markowitz, Sarah	
 * McClusky, Laura 
 * Morfei, Milene 
 * Muñoz, Vic 
@@ -39,17 +35,21 @@ Faculty Counting toward Quorum
 * Stiadle, Thomas 
 * Tabrizi, Susan 
 * Uddin, Muin
-* Wahl, Christina	
 * Waugh, Katie 
 
 ### On leave ###
 
+1. Garrett, Cynthia	
+- Hall, Lisa	
+- Heinekamp, Scott	
+- Markowitz, Sarah	
+- Wahl, Christina	
 
-## Summer 2013 ##
+## Sp14 ##
 
 | Members	| Quorum	|  
 | :----:	| :----:	|  
-| 34	| 18	|  
+| 28	| 15	|  
 
 1.  Adams, Bryant 
 * Bailey, Christopher 
@@ -60,18 +60,13 @@ Faculty Counting toward Quorum
 * Easter, Siouxsie 
 * Frazier, Brad 
 * Gagnon, Deborah 
-* Ganis, William	
-* Garrett, Cynthia	
 * Goddard, Jeanne 
 * Groth, Michael 
-* Hall, Lisa	
 * Heinekamp, Scott	
 * Klitgaard, Kent 
 * Koepp, Cynthia 
 * Lohn, Linda 
 * Lossowski, Theodore 
-* Lumumba-Kasongo, Tukumbi	
-* Markowitz, Sarah	
 * McClusky, Laura 
 * Morfei, Milene 
 * Muñoz, Vic 
@@ -83,9 +78,14 @@ Faculty Counting toward Quorum
 * Stiadle, Thomas 
 * Tabrizi, Susan 
 * Uddin, Muin
-* Wahl, Christina	
 * Waugh, Katie 
 
 ### On leave ###
 
+1. Ganis, William	
+- Garrett, Cynthia	
+- Hall, Lisa	
+- Lumumba-Kasongo, Tukumbi	
+- Markowitz, Sarah	
+- Wahl, Christina	
 
