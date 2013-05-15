@@ -74,7 +74,7 @@ Faculty Counting toward Quorum
 * Markowitz, Sarah	
 * McClusky, Laura 
 * Morfei, Milene 
-* Munoz, Vic 
+* Muñoz, Vic 
 * O'Leary, Niamh 
 * O'Neil, Lauren 
 * Olson, Ernest 
