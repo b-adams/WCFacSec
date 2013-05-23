@@ -320,14 +320,14 @@ NonStandard LaTeX document class for Bylaws]
 \newcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
                                      {-3.25ex\@plus -1ex \@minus -.2ex}%
                                      {1.5ex \@plus .2ex}%
-                                     {\normalfont\normalsize\bfseries \S}}
-%                                     {\normalfont\normalsize\bfseries}}
+%                                     {\normalfont\normalsize\bfseries \S}}
+                                     {\normalfont\normalsize\bfseries}}
 \newcommand\paragraph{\@startsection{paragraph}{4}{\z@}%
                                      {-3.25ex\@plus -1ex \@minus -.2ex}%
                                      {1.5ex \@plus .2ex}%
-                                     {\normalfont\normalsize \P}}
+%                                     {\normalfont\normalsize \P}}
 %                                     {\normalfont\normalsize \S\thesubsubsection.\P}}
-%                                     {\normalfont\normalsize}}
+                                     {\normalfont\normalsize}}
 %\newcommand\paragraph{\@startsection{paragraph}{5}{\z@}%
 %                                    {3.25ex \@plus1ex \@minus.2ex}%
 %                                    {-1em}%
